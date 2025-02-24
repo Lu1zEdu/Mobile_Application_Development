@@ -1,4 +1,4 @@
-<p/> npx create-expo-app {Nome_do_Projeto} --template
+<p> npx create-expo-app {Nome_do_Projeto} --template
 
     cd {Nome_do_Projeto}
 
@@ -7,3 +7,4 @@
     or
 
     npm run android
+<p/>
